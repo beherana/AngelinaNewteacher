@@ -1,4 +1,0 @@
-AngelinaNewteacher
-==================
-
-AngelinaNew teacher

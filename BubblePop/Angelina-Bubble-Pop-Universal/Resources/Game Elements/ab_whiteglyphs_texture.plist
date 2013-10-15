@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bottom.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 14}, {768, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -7}</string>
+			<key>spriteSize</key>
+			<string>{768, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{768, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 614}, {768, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>your_score.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{30, 37}, {282, 55}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{282, 55}</string>
+			<key>spriteSourceSize</key>
+			<string>{282, 55}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{30, 37}, {282, 55}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>best.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{548, 38}, {78, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{78, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{78, 38}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{548, 38}, {78, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>time_remaining.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{320, 38}, {211, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 0}</string>
+			<key>spriteSize</key>
+			<string>{211, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{211, 37}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 38}, {211, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

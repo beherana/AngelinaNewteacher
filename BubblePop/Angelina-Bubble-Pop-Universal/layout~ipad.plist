@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>angelina</key>
+	<string>{191,229}</string>
+	<key>flowerbed</key>
+	<string>{512,384}</string>
+	<key>thoughtBubble</key>
+	<string>{164,563}</string>
+	<key>thoughtBubbleFlower</key>
+	<string>{170,570}</string>
+	<key>flowerbedPopY</key>
+	<integer>70</integer>
+</dict>
+</plist>

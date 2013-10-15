@@ -1,0 +1,18 @@
+//
+// Prefix header for all source files of the 'Angelina-New-Teacher-Universal' target in the 'Angelina-New-Teacher-Universal' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+    #import "cdaGlobalFunctions.h"
+    #import "Scaling.h"
+#endif
+
+#define ANGELINA_BUBBLE_POP_INAPP
+
+#ifdef ANGELINA_BUBBLE_POP_INAPP
+#define flurryEventPrefix(A)    [@"BubblePop " stringByAppendingString:(A)]
+#else
+#define flurryEventPrefix(A)    (A) 
+#endif

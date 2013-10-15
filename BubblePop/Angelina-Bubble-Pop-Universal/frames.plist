@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANG_Blink1.png</key>
+	<dict>
+		<key>x</key>
+		<integer>0</integer>
+		<key>y</key>
+		<integer>0</integer>
+	</dict>
+	<key>ANG_Blink2.png</key>
+	<dict>
+		<key>x</key>
+		<integer>0</integer>
+		<key>y</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mouth_close.png</key>
+	<dict>
+		<key>x</key>
+		<integer>0</integer>
+		<key>y</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mouth_mid.png</key>
+	<dict>
+		<key>x</key>
+		<integer>0</integer>
+		<key>y</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mouth_wideopen.png</key>
+	<dict>
+		<key>x</key>
+		<integer>0</integer>
+		<key>y</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>

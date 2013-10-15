@@ -1,0 +1,15 @@
+page id=0 file="ab_whiteglyphs_texture.png"
+chars count=13
+char id=48  x=37     y=101     width=94     height=112    xoffset=0   yoffset=0   xadvance=69      page=0
+char id=49  x=130     y=101     width=94     height=112  xoffset=0   yoffset=0   xadvance=69      page=0
+char id=50  x=223     y=101     width=94     height=112    xoffset=0   yoffset=0   xadvance=69      page=0
+char id=51  x=316     y=101     width=94     height=112    xoffset=0   yoffset=0   xadvance=69      page=0
+char id=52  x=409     y=101     width=94     height=112    xoffset=0   yoffset=0   xadvance=69      page=0
+char id=53  x=505     y=101     width=94     height=112    xoffset=0   yoffset=0   xadvance=65      page=0
+char id=54  x=595     y=101     width=94     height=112    xoffset=0   yoffset=0   xadvance=69      page=0
+char id=55  x=688     y=101     width=94     height=112    xoffset=0   yoffset=0   xadvance=69      page=0
+char id=56  x=781     y=101     width=94     height=112    xoffset=0   yoffset=0   xadvance=69      page=0
+char id=57  x=873     y=101     width=94     height=112    xoffset=0   yoffset=0   xadvance=69      page=0
+char id=44  x=41     y=221     width=50     height=122    xoffset=0   yoffset=0   xadvance=31      page=0
+char id=58  x=101     y=233     width=50     height=112    xoffset=0   yoffset=0   xadvance=31      page=0
+char id=46  x=160     y=233     width=50     height=112    xoffset=0   yoffset=0   xadvance=31      page=0

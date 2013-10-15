@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animations</key>
+	<array>
+		<string>Angelina_Blink</string>
+		<string>Angelina_Meeting</string>
+		<string>Angelina_Im</string>
+		<string>Angelina_Today</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+</dict>
+</plist>

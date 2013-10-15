@@ -1,0 +1,13 @@
+page id=0 file="ab_texture_sheet.png"
+chars count=11
+char id=43  x=9     y=10     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=49  x=89     y=10     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=50  x=168     y=10     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=51  x=248     y=10     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=52  x=331     y=10     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=53  x=415     y=10     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=54  x=9     y=140     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=55  x=89     y=140     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=56  x=168     y=140     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=57  x=251     y=140     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
+char id=48  x=336     y=140     width=84     height=112    xoffset=0   yoffset=0   xadvance=60      page=0
